@@ -17,5 +17,10 @@ Airbnb, Inc. is an American company operating an online marketplace for short- a
 
 ## Tech Stacks
 
-**Client:** Next Js, React Js, Javascript, and Tailwind Css.
+**Client:** Next Js, React Js, Javascript, and Tailwind CSS.
 **Server:** Node Js, Prisma, MongoDb.
+
+
+## Deployed link
+https://airbnb-eta-lime-89.vercel.app
+(Please open this link in incognito window)
